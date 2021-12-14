@@ -1,5 +1,7 @@
 # Testing workshop
 
+> Switch to the branch `greeting` to see an example for testing!
+
 This is the starter template for a beginner's testing workshop with TypeScript and Jest.
 
 You can clone this project or follow the [Project setup from scratch](#project-setup-from-scratch).
