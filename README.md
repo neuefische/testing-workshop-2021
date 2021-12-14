@@ -19,7 +19,7 @@ You can clone this project or follow the [Project setup from scratch](#project-s
 2. Add dependencies
 
   ```shell
-  $ npm install -D jest ts-jest @types/jest
+  $ npm install -D jest ts-jest @types/jest typescript
   ```
 
 3. Create a `jest.config.js`
